@@ -232,10 +232,10 @@ nomnom@1.5.2, "nomnom@>= 1.5.x":
     colors "0.5.x"
     underscore "1.1.x"
 
-prettier@2.6.2:
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
-  integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
+prettier@3.6.1:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.1.tgz#cc3bce21c09a477b1e987b76ce9663925d86ae44"
+  integrity sha512-5xGWRa90Sp2+x1dQtNpIpeOQpTDBs9cZDmA/qs2vDNN2i18PdapqY7CmBeyLlMuGqXJRIOPaCaVZTLNQRWUH/A==
 
 source-map@~0.1.33:
   version "0.1.43"
