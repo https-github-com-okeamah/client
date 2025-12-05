@@ -40,10 +40,10 @@ avdl2json@2.2.5, avdl2json@^2.2.5:
     jison "^0.4.17"
     minimist "^1.2.0"
 
-camelcase@6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-6.3.0.tgz#5685b95eb209ac9c0c177467778c9c84df58ba9a"
-  integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
+camelcase@9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-9.0.0.tgz#451bbe18e34a2d2646bd62340c9278edd36db381"
+  integrity sha512-TO9xmyXTZ9HUHI8M1OnvExxYB0eYVS/1e5s7IDMTAoIcwUd+aNcFODs6Xk83mobk0velyHFQgA1yIrvYc6wclw==
 
 cjson@0.3.0:
   version "0.3.0"
